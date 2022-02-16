@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Muhammad R Afzal
 
-You can use the [editor on GitHub](https://github.com/cyberark101/cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am an energetic, committed professional with experience within identity & access management. While working within the regulated financial market, I have hands on experience with top cyber sec tooling including CyberArk PAM/PSM, OIM, OEM etc.  I have also been honoured to be part of CompTIA & DCMS (Govt) Cybersecurity bootcamp.
 
 ### Markdown
 
